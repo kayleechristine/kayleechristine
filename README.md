@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" align="center" style="width: 80%" />
+<img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" align="center" style="width: 70%" />
 </div>  
 
 <h1 align="center"></a>Hey there! I'm Kaylee</h1>
