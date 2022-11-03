@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/YRK6HL1CEMUxZHLvjl/giphy.gif" align="center" style="width: 85%" />
+<img src="https://media.giphy.com/media/1yld7nW3oQ2IyRubUm/giphy.gif" align="center" style="width: 80%" />
 </div>  
 
-<h1 align="center"></a>:jack_o_lantern: Hey there, I'm Kaylee! :jack_o_lantern: </h1>
+<h1 align="center"></a>:fallen_leaf: Hey there, I'm Kaylee! :maple_leaf: </h1>
 
 ### <div align="center">an aspiring full-stack web developer 👩‍💻 currently learning web development with CodeUp 🚀</div>  
 <br>
