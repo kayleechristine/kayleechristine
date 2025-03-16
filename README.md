@@ -4,7 +4,7 @@
 
 <h1 align="center"></a>:fallen_leaf: Hey there, I'm Kaylee! :maple_leaf: </h1>
 
-### <div align="center">an aspiring full-stack web developer 👩‍💻 currently learning web development with CodeUp 🚀</div>  
+### <div align="center">Aspiring Software Development Engineer 👩‍💻 Computer Science Student at TCU 🐸</div>  
 <br>
   
 <details>
@@ -12,16 +12,18 @@
 
   <br/>
 
-- 🌎 Living in Dallas, TX  
+- 🌎 Local To: Fort Worth, TX  
   
 
-- 🌱 I’m currently learning JavaScript, HTML, and CSS  
+- 🌱 Currently Learning: C & Python for Data Analytics 
   
 
-- 💬 Ask me about travel, video games, or D&D   
+- 💬 Ask Me About: Travel, Video Games, or D&D   
   
 
-- 🍍 Fun fact: I love pineapple pizza (and I'll die on this hill)  
+- 🍍 Fun Fact: I love pineapple pizza (and I'll die on this hill)
+
+    
 <br>
 </details>
 
@@ -38,8 +40,6 @@
 <summary><b>📈 GitHub Stats</b></summary><br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kayleechristine&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 70%" /></div>  
 </details>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=1249258769&cover_image=true&theme=default&show_offline=false" style="width: 25%" /></div>  
 
 <div align="center">
 <a href="https://github.com/kayleechristine" target="_blank">
