@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" align="center" style="width: 60%" />
+  <img src="https://64.media.tumblr.com/76cde540c8c20ce798d0f1c0560901f5/7cce9bf78b41da17-ff/s640x960/d5aabfb0125caca2b3a55e67e95210b14ebcc3e1.gifv" align="center" style="width: 60%" />
 </div>  
 
 <h1 align="center"></a>✨ Hey there, I'm Kaylee! ✨</h1>
