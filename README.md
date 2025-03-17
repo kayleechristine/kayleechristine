@@ -5,7 +5,6 @@
 <h1 align="center"></a>✨ Hey there, I'm Kaylee! ✨</h1>
 
 ### <div align="center">Aspiring Software Development Engineer 👩‍💻 <br> 🐸 Computer Science Student at TCU</div>  
-<br>
   
 ## Languages & Tools:
   <p align="center"> 
